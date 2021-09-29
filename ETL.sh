@@ -1,0 +1,1 @@
+0 21 * * 3 /home/ubuntu/anaconda3/bin/python3 /home/ubuntu/DS/Algo/ETL/etl_minute.py
