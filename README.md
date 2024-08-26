@@ -1,4 +1,4 @@
-# ETL demo for CPP
+# ETL demo
 
 ## Introduction
 The goal is to fetch minute prices for about 1000 US stocks through Finnhub API
